@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "NexaText";
+  src: url("./fonts/NexaText-Trial-Book.otf") format("opentype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "NexaText";
+  src: url("./fonts/NexaText-Trial-Regular.otf") format("opentype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "NexaText";
+  src: url("./fonts/NexaText-Trial-Bold.otf") format("opentype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "NexaText";
+  src: url("./fonts/NexaText-Trial-Heavy.otf") format("opentype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "NexaText";
+  src: url("./fonts/NexaText-Trial-Black.otf") format("opentype");
+  font-weight: 900;
+}
