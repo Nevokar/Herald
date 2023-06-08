@@ -12,6 +12,9 @@ export default {
       transparent: 'transparent',
       current: 'currentColor',
       'beige': '#ebebec',
+      'black': '#050507',
+      'lightgrey': '#808285',
+      'brown': '#ba8c72',
     },
     extend: {
       fontFamily: {
